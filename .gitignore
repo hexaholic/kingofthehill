@@ -2,3 +2,4 @@
 *.mf
 nbproject/*
 build/*
+dist/README.txt
